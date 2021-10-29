@@ -10,6 +10,7 @@ int fact(int n){
 int main(){
     int n;
     cin>>n;
+    cout<<"Factorial of the number is: ";
     cout<<fact(n)<<endl;
     return 0;
 }
