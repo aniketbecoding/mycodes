@@ -109,7 +109,9 @@ int main(){
     }
     else{
     cout<<"Thank you for shopping :). Do Come again!"<<endl;
+     
     }
     }
+    cout<<"Rate us on a scale of 10"<<endl;
     return 0;
 }
