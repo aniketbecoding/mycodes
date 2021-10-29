@@ -60,6 +60,7 @@ int main(){
     }
     double fgp=m/totc;
     cout<<"your GPA is: "<<fgp<<endl;
+    cout<<"Thank you for using this interface"<<endl;
 
     
     return 0;
