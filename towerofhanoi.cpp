@@ -9,6 +9,7 @@ void toh(int n, char src,char dest,char helper){
     toh(n-1,helper,dest,src);
 }
 int main(){
+    cout<<"Solution is:"<<endl;
     toh(4,'A','C','B');
     return 0;
 }
